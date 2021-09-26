@@ -1,0 +1,75 @@
+img{
+    padding:10px;
+    
+}
+
+.body1
+{
+    text-align: justify;
+    background-color: #FFFFF0;
+    color:#730000;
+
+
+}
+
+body{
+    text-align: justify;
+    background-color: #FFEFD5;
+    color:#730000;
+}
+
+
+h1{
+    text-align: center;
+    
+}
+
+.piros {
+    color:red;}
+    .narancs{
+        color:orange
+    }
+
+.sárga{
+    color:yellow
+}
+.zöld{
+    color:green
+}
+
+.kék{
+    color:blue
+}
+
+.indigó{
+    color:purple
+}
+
+.ibolya{
+    color:plum
+}
+
+footer{
+    text-align: center;
+    padding:0px;
+    
+}
+
+a:link {
+    color: #006101;
+      }
+  a:visited {
+    color: #009301 ;
+  }
+  
+.aligncenter {
+    text-align: center;
+}
+
+.vonal1{
+width:80%;
+}
+
+.vonal2{
+    width:60%;
+    }
